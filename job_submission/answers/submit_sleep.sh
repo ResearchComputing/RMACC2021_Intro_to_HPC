@@ -7,7 +7,6 @@
 #SBATCH --job-name=sleep			# Job submission name
 #SBATCH --mail-type=end				# Email you when the job ends 
 ###SBATCH --mail-user=<user>@colorado.edu		# Email address to send to	
-#SBATCH --reservation=tutorial1			# Reservation (only valid during workshop)
 
 
 # Written by:   Shelley Knuth, 15 July 2016
